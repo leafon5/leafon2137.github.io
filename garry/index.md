@@ -5,9 +5,9 @@
 basically the best geometry dash discord bot you'll ever find.
 -
 
-![Like literally, this looks dope](https://cdn.discordapp.com/attachments/709368324605345865/867746871194943488/unknown.png  "Garry's +search command")]
-
-Like legit, this looks dope, right?
+![Like literally, this looks dope](https://cdn.discordapp.com/attachments/709368324605345865/867746871194943488/unknown.png  "Garry's +search command")
+ 
+   Like legit, this looks dope, right?
 
 **Garry also has other commands:**
 - -profile (View a profile of a certain player!)
