@@ -19,7 +19,7 @@ Like legit, this looks dope, right?
          - hard (hard demon roulette)
          - medium (medium demon roulette)
          - easy (easy demon roulette)
-      - rng-lay (randomized layout - gives you a specific song id, gamemode, speed etc. that you have to use for your layout)
+    - rng-lay (randomized layout - gives you a specific song id, gamemode, speed etc. that you have to use for your layout)
 - -recent (Explore the recent tab without opening geometry dash)
 - -recent-rate (Recently rated levels :D)
 Thats all for now. But i'm gonna add more stuff such as:
